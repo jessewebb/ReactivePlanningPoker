@@ -1,5 +1,5 @@
 logLevel := Level.Warn
 
-resolvers += "Typesafe repository" at "http://repo.typesafe.com/typesafe/releases/"
+resolvers += "Lightbend Repository" at "http://repo.lightbend.com/lightbend/releases/"
 
 addSbtPlugin("com.typesafe.play" % "sbt-plugin" % "2.7.3")
